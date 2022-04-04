@@ -1,0 +1,12 @@
+[Init]
+AlphaBlending=0
+TreeTransparence=1
+FightingEfects=1
+FpsLimit=0
+Night=0
+NoFullScreen=1
+VideoMemory=0
+RememberPass=0
+Cursors=0
+BmpScreenshot=0
+VSync=0

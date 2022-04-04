@@ -1,0 +1,10 @@
+/modmapinfo backup 1
+/guardamapa
+/ping
+/ci 58
+/ci 642
+/ci 388
+/dest
+
+
+

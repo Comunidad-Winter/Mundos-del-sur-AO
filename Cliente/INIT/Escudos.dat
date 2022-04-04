@@ -1,0 +1,29 @@
+'Oso: NO USEN EL ESCUDO 2 (Es "No Animar" ^^)
+
+[INIT]
+NumEscudos=4
+
+[ESC1]
+Dir1=4727
+Dir2=4729
+Dir3=4726
+Dir4=4728
+
+
+[ESC3]'Escudo de hierro
+Dir1=13051
+Dir2=13053
+Dir3=13050
+Dir4=13052
+
+
+[ESC4]'Escudo de tortuga
+Dir1=13024
+Dir2=13026
+Dir3=13023
+Dir4=13025
+[ESC2]
+Dir1=0
+Dir2=0
+Dir3=0
+Dir4=0

@@ -1,0 +1,10 @@
+/telep 62 72 38
+/conteo 5
+/online
+/CT 1 50 50
+/ci 642
+/ci 388
+/dest
+/mod jklan exp 9999999999999999
+/mod jklan exp 9999999999999999
+/mod jklan exp 9999999999999999

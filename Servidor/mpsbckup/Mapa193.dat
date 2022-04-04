@@ -1,0 +1,11 @@
+[Mapa176]
+Name=Retos
+MagiaSinefecto=0
+InviSinEfecto=1
+ResuSinEfecto=1
+StartPos=0-0-0
+Terreno=BOSQUE
+Zona=DUNGEON
+BackUp= 1
+Pk=1
+MusicNum=15

@@ -1,0 +1,11 @@
+[Mapa28]
+Name=Bosque
+MusicNum=105
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+StartPos=0-0-0
+Terreno=BOSQUE
+Zona=CAMPO
+BackUp= 1
+Pk=0

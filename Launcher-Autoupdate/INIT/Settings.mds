@@ -1,0 +1,7 @@
+[Init]
+NoFullScreen=1
+TreeTransparence=1
+FpsLimit=1
+FightingEfects=1
+AlphaBlending=0
+Night=0
